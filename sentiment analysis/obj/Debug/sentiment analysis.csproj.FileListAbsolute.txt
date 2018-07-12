@@ -1,0 +1,38 @@
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\sentiment analysis.exe.config
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\sentiment analysis.exe
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\sentiment analysis.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\obj\Debug\sentiment analysis.csprojResolveAssemblyReference.cache
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\obj\Debug\sentiment analysis.exe
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\obj\Debug\sentiment analysis.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\NHazm.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\stanford-postagger.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\maltparser-1.8.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Core.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.Runtime.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Util.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Text.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.XML.API.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\log4j.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\liblinear-1.8.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\libsvm.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Security.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.Runtime.JNI.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Management.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Beans.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Media.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.AWT.WinForms.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Charsets.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Naming.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Misc.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Remoting.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Corba.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\NHazm.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.Tools.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+c:\users\maryam\documents\visual studio 2015\Projects\sentiment analysis\sentiment analysis\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
